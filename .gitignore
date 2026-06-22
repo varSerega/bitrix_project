@@ -22,6 +22,7 @@ restore.php
 /**/*.DS_Store
 Thumbs.db
 .tar.*
+.zip.
 bx_1c_import.php
 test*
 !/test.php
